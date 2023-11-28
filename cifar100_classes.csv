@@ -1,0 +1,101 @@
+classes,classes_a,super_classes
+beaver,apple,aquatic mammals
+dolphin,aquarium_fish,fish
+otter,baby,flowers
+seal,bear,food containers
+whale,beaver,fruit and vegetables
+aquarium_fish,bed,household electrical devices
+flatfish,bee,household furniture
+ray,beetle,insects
+shark,bicycle,large carnivores
+trout,bottle,large man-made outdoor things
+orchid,bowl,large natural outdoor scenes
+poppy,boy,large omnivores and herbivores
+rose,bridge,medium-sized mammals
+sunflower,bus,non-insect invertebrates
+tulip,butterfly,people
+bottle,camel,reptiles
+bowl,can,small mammals
+can,castle,trees
+cup,caterpillar,vehicles
+plate,cattle,vehicles 2
+apple,chair,None
+mushroom,chimpanzee,None
+orange,clock,None
+pear,cloud,None
+sweet_pepper,cockroach,None
+clock,couch,None
+keyboard,crab,None
+lamp,crocodile,None
+telephone,cup,None
+television,dinosaur,None
+bed,dolphin,None
+chair,elephant,None
+couch,flatfish,None
+table,forest,None
+wardrobe,fox,None
+bee,girl,None
+beetle,hamster,None
+butterfly,house,None
+caterpillar,kangaroo,None
+cockroach,keyboard,None
+bear,lamp,None
+leopard,lawn_mower,None
+lion,leopard,None
+tiger,lion,None
+wolf,lizard,None
+bridge,lobster,None
+castle,man,None
+house,maple_tree,None
+road,motorcycle,None
+skyscraper,mountain,None
+cloud,mouse,None
+forest,mushroom,None
+mountain,oak_tree,None
+plain,orange,None
+sea,orchid,None
+camel,otter,None
+cattle,palm_tree,None
+chimpanzee,pear,None
+elephant,pickup_truck,None
+kangaroo,pine_tree,NoneNone
+fox,plain,None
+porcupine,plate,None
+possum,poppy,None
+raccoon,porcupine,None
+skunk,possum,None
+crab,rabbit,None
+lobster,raccoon,None
+snail,ray,None
+spider,road,None
+worm,rocket,None
+baby,rose,None
+boy,sea,None
+girl,seal,None
+man,shark,None
+woman,shrew,None
+crocodile,skunk,None
+dinosaur,skyscraper,None
+lizard,snail,None
+snake,snake,NoneNone
+turtle,spider,None
+hamster,squirrel,None
+mouse,streetcar,None
+rabbit,sunflower,None
+shrew,sweet_pepper,None
+squirrel,table,None
+maple_tree,tank,None
+oak_tree,telephone,None
+palm_tree,television,None
+pine_tree,tiger,None
+willow_tree,tractor,None
+bicycle,train,None
+bus,trout,None
+motorcycle,tulip,None
+pickup_truck,turtle,None
+train,wardrobe,None
+lawn_mower,whale,None
+rocket,willow_tree,None
+streetcar,wolf,NoneNone
+tank,woman,None
+tractor,worm,None
